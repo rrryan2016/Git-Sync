@@ -1,0 +1,3 @@
+grant all on test.* to hehe@'localhost' identified by '123456'
+
+grant insert,select,update on test.goods to hehe@'localhost' identified 
