@@ -63,7 +63,9 @@ This is motherfxxk from my own laptop!!!
 
 剑指offer
 https://blog.csdn.net/mmc_maodun/column/info/mmc-offer
+
 微软面试100题
+
 * LR为什么用sigmoid函数。这个函数有什么优点和缺点？为什么不用其他函数？
 * SVM原问题和对偶问题关系？
 * KKT条件用哪些，完整描述

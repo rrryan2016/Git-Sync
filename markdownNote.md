@@ -3,6 +3,9 @@ Baby Can You See it in my laptop??
 From Lab!!
 
 This is motherfxxk from my own laptop!!! 
+
+自己摸索一下放库存时间，然后双开网页，一个停在提交页，一个刷库存
+
 * Key words 
 > 爬虫 数据清洗
 * 建立数据库的步骤
@@ -106,11 +109,7 @@ This is motherfxxk from my own laptop!!!
 > 
 > 
 > 
-
-
-##爬虫
-* 
-* 
+ 
 
 
 
