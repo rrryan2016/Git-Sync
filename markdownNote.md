@@ -83,6 +83,38 @@ The 18-year-old, a City player since the age of eight, is an exceptional talent 
 On the one hand, 福登 could not ask for a better set of players to learn from. 他最近说：“我们有最出色的球员，最优秀的工作人员，所以我正处在正确的位置。我每天都从他们身上” 
 "We've got the best set of players and the best staff so I'm in the right position, I'm learning off them every day, so I couldn't be in a better place. It's brilliant to play alongside players like Kevin De Bruyne. You just learn from the best."
 
-But on the other hand, it makes the task of breaking into the team far harder. David Silva turned 33 earlier this month. The idea is that 福登 will one day succeed him in City's midfield. But with nine goals in 27 appearances so far this season, the Spaniard is showing no imminent signs of slowing down.
+但是在另一方面，优秀的球员配置也使得进入一阵的任务愈发艰难。大卫-席尔瓦在这个月早些时候年满33岁。 The idea is that 福登有一天会在曼城的中场接替席尔瓦的位置。但是本赛季目前为止，席尔瓦27次出场收获9粒进球，西班牙人目前还没有放缓脚步的迹象。
 
-瓜迪奥拉 has preached patience with 福登, 坚称他在未来将“有很多上场机会”，但是在目前这个对他发展至关重要的阶段，  but at this crucial stage in his development, the onus is on City to be brave with him now. 这名18岁球员已经足够优秀，这一点无需多言，穆巴拉克和瓜迪奥拉都已经知道。 现在问题的关键是给他足够的出场时间来让他展现自己的天赋。
+瓜迪奥拉对福登保有耐心, 坚称他在未来将“有很多上场机会”，但是在目前这个对他发展至关重要的阶段，  but at this crucial stage in his development, the onus is on City to be brave with him now. 这名18岁球员已经足够优秀，这一点无需多言，穆巴拉克和瓜迪奥拉都已经知道。 现在问题的关键是给他足够的出场时间来让他展现自己的天赋。
+
+
+
+Hey Guys, sorry for disturbance. I got a trouble in Verify Install. 
+I follow the procedure in https://github.com/Microsoft/nni.
+When I come to, run the mnist example,  `nnictl create --config nni/examples/trials/mnist/config.yml`
+Something happened in terminal:
+it comes as:
+(p35) C:\Users\Administrator>nnictl create --config nni/examples/trials/mnist/config.yml
+Traceback (most recent call last):
+  File "c:\users\administrator\anaconda3\envs\p35\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "c:\users\administrator\anaconda3\envs\p35\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Administrator\Anaconda3\envs\p35\Scripts\nnictl.exe\__main__.py", line 5, in <module>
+  File "c:\users\administrator\anaconda3\envs\p35\lib\site-packages\nnicmd\nnictl.py", line 23, in <module>
+    from .launcher import create_experiment, resume_experiment
+  File "c:\users\administrator\anaconda3\envs\p35\lib\site-packages\nnicmd\launcher.py", line 29, in <module>
+    from .launcher_utils import validate_all_content
+  File "c:\users\administrator\anaconda3\envs\p35\lib\site-packages\nnicmd\launcher_utils.py", line 24, in <module>
+    from .common_utils import get_json_content, print_error
+  File "c:\users\administrator\anaconda3\envs\p35\lib\site-packages\nnicmd\common_utils.py", line 25, in <module>
+    from .constants import ERROR_INFO, NORMAL_INFO, WARNING_INFO, COLOR_RED_FORMAT, COLOR_YELLOW_FORMAT
+  File "c:\users\administrator\anaconda3\envs\p35\lib\site-packages\nnicmd\constants.py", line 23, in <module>
+    NNICTL_HOME_DIR = os.path.join(os.environ['HOME'], '.local',  'nni', 'nnictl')
+  File "c:\users\administrator\anaconda3\envs\p35\lib\os.py", line 725, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'HOME'
+
+My OS is window 10 64 bit, and the Python Version is 3.5
+
+Thanks bud!
