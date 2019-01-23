@@ -32,56 +32,43 @@ quite obviously
 selenium 截图
 pytesseract 库来识别
 
-
-
-
-
-
-
-
-
-
-  福登's future is a challenge for 曼城和主帅瓜迪奥拉
+福登的未来对曼城和主帅瓜迪奥拉都是一项挑战
 
 评述和分析：尼克-莱特
 
-
-
 周三晚间天空体育直播曼城和伯顿的联赛杯比赛
- 
 
 福登本赛季仅在英超上场93分钟
 
-布拉欣-迪亚斯跟随桑乔离开曼城的决定使得福登成为了人们关注的焦点。 So what are the prospects of their great academy hope now forcing his way into the team? 这对于福登本人和球队来说都是一项挑战。
+布拉欣-迪亚斯跟随桑乔离开曼城的决定使得福登成为了人们关注的焦点。 那么曼城青训的希望进入一线队的前景是怎样的呢？这对于福登本人和球队来说都是一项挑战。
 
-在2017年5月，在结束瓜迪奥拉执教曼城的第一个赛季，并且收获英超第三名成绩不久之后，  曼城主席穆巴拉克接受了一次采访，采访中他赞赏了球队的未来，以及and the three young players he hoped would form a key part of it.
+在2017年5月，在结束瓜迪奥拉执教曼城的第一个赛季，并且收获英超第三名成绩不久之后，  曼城主席穆巴拉克接受了一次采访，采访中他赞赏了球队的未来，以及三名他所希望组成球队未来的年轻球员。 
 
-"What makes it special this year especially is that we have three or four players that we genuinely believe have a very good chance of making it to the first team. You look at 桑乔, you look at  福登, you look at 迪亚斯. They are extremely talented players. If you ask Pep today, he will tell you they can and will be first-team players at Manchester City."
+“今年的特别之处在于我们拥有三四名球员，我们由衷地相信他们有很好的机会进入一队。你看看桑乔、福登和迪亚斯，他们都是十分有才华的球员。如果你今天采访瓜迪奥拉，他会告诉你这三名球员能够也将会成为曼城一线队的球员。”
 
 穆巴拉克对曼城未来的兴奋显然是没有任何问题的，同时他对球队三颗冉冉升起的新星的潜力也是估计正确的。但是问题显然是其中两人正在其他球队兑现自己的天赋。 在穆巴拉克的上述评论之后，桑乔迅速和曼城切断了关系，之后迪亚斯也在这个月早些时候转会至皇家马德里。
 
-It is a damning indictment of the lack of opportunity in the Premier League that a young player like 迪亚斯 feels he will get more chances with 13-time European champions Madrid than he would at City, 但是他和桑乔并不是仅有的失去耐心的球员。
+像迪亚斯这样的年轻人认为他们能在13次欧冠冠军皇家马德里得到比曼城更多的机会，正是对球员在英超缺少机会这一现象的强烈控诉。但是迪亚斯和桑乔并不是仅有的失去耐心的球员。
 
-The stream of young players moving abroad is gaining momentum, with 切尔西的 奥多伊, a £35m target for 拜仁慕尼黑, 就是下一个潜在的引起轰动的流出。
+年轻球员出国选择踢球这一势头也在增长。 譬如，拜仁慕尼黑愿意开价3500万英镑引进切尔西的奥多伊，就是下一个可能引起轰动的人才流出。
 
-这一趋势促使英超的俱乐部做出一定的自我反省。 It also adds to the intrigue surrounding what happens next with 福登 at Manchester City.
+这一趋势促使英超的俱乐部做出一定的自我反省，同样也加重了在曼城福登身边所遭遇的剧情。 
 
-The 18-year-old, a City player since the age of eight, is an exceptional talent who counts 瓜迪奥拉 among his most vocal admirers - 曼城的老板最近表态："他将会陪伴我们很多很多年，但是就目前而言，在一线队的出场机会是有限的。"  
+这名18岁的曼城球员自他8岁起就是就是一个杰出的天才，并且视瓜迪奥拉为其最仰慕的人之一。  曼城的老板最近表态："他将会陪伴我们很多很多年，但是就目前而言，在一线队的出场机会是有限的。"  
 
-福登 has featured in eight Champions League and cup fixtures this season, 也有三粒入球进账。但是在英超联赛中，自他18个月前的首秀以来，他只踢了139分钟。在周日对阵主帅下课的哈德斯菲尔德的比赛中，尽管球队自第56分钟起就以三球优势领先，他还是没有登场比赛。
+本赛季，福登在欧冠和联赛杯中总共登场8次，也有三粒入球进账。但是在英超联赛中，自他18个月前的首秀以来，他只踢了139分钟。在周日对阵主帅下课的哈德斯菲尔德的比赛中，尽管球队自第56分钟起就以三球优势领先，他还是没有登场比赛。
 
 福登在对阵伯恩利的比赛中
 
-目前没有迹象表明，福登 sees his future elsewhere and并且人们还应该 it is also important to remember that he is still four months shy of his 19th birthday, but he could be forgiven for casting envious glances towards his old academy team-mates on the continent.
+目前没有迹象表明，福登认为自己的未来在别处，另外一点值得强调的是，距离他19岁生日还有4个月。 但是当我们把目光投给福登曼城足球学院的老队友和同胞时，他的表现也会被遗忘。
 
-福登和桑乔在年龄上仅相差两个月，但是自桑乔于2017年从曼城转会到多特蒙德，后者已经在德甲联赛中登场1797分钟， earning three England caps and 并且赢得了欧洲最火爆的年轻球员之一的美誉。同时，迪亚斯, meanwhile, has made three senior appearances in little more than two weeks since joining Madrid.
+福登和桑乔在年龄上仅相差两个月，但是自桑乔于2017年从曼城转会到多特蒙德，后者已经在德甲联赛中登场1797分钟，三次代表英格兰出战国际比赛，并且赢得了欧洲最火爆的年轻球员之一的美誉。同时，迪亚斯在加盟皇家马德里两周多一点是时间内就已经代表一线队出场3次了。
 
-福登, Golden Ball winner during England U17s' World Cup triumph in 2017, is regarded by some as the most talented of the trio, but competition for places in City's midfield could hardly be tougher. In addition to having Fernandinho, Kevin De Bruyne and Ilkay Gundogan on the pitch on Sunday, City had David Silva and Bernardo Silva alongside 福登 on the bench.
+在2017年U17世界杯上，福登助英格兰队夺冠并且收获了金球奖，他也被一些人认为是三人中最有才华的，但是在曼城中场位置的竞争已经不能再激烈了。周日的比赛中，除了在场上的费尔南迪尼奥、德布劳内和京多安，曼城的替补席上福登旁边还坐着大卫-席尔瓦和贝尔纳多-席尔瓦。
 
  瓜迪奥拉在联赛杯和牛津联赛后拥抱福登
 
-一方面，福登 could not ask for a better set of players to learn from. 他最近说：“我们有最出色的球员，最优秀的工作人员，所以我正处在正确的位置。我每天都从他们身上” 
-"We've got the best set of players and the best staff so I'm in the right position, I'm learning off them every day, so I couldn't be in a better place. It's brilliant to play alongside players like Kevin De Bruyne. You just learn from the best."
+一方面，福登找不到除曼城之外另一组更好的球员来切磋学习。他最近表示：“我们球队有最出色的球员，最优秀的工作人员，所以我正处在正确的位置。我每天都从他们身上，我也找不到比这更好的地方。能和像德布劳内这样的球员一起踢球真的是太棒了，这样你就从最好的球员身上学习。”
 
 但是在另一方面，优秀的球员配置也使得进入一阵的任务愈发艰难。大卫-席尔瓦在这个月早些时候年满33岁。 人们的想法是福登有一天会接替席尔瓦在曼城中场的位置。但是本赛季目前为止，席尔瓦27次出场收获9粒进球，西班牙人目前还没有放缓脚步的迹象。
 
