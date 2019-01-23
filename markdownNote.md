@@ -72,20 +72,20 @@ The 18-year-old, a City player since the age of eight, is an exceptional talent 
 
 福登在对阵伯恩利的比赛中
 
-福登 has given no indication that he sees his future elsewhere and并且人们还应该 it is also important to remember that he is still four months shy of his 19th birthday, but he could be forgiven for casting envious glances towards his old academy team-mates on the continent.
+目前没有迹象表明，福登 sees his future elsewhere and并且人们还应该 it is also important to remember that he is still four months shy of his 19th birthday, but he could be forgiven for casting envious glances towards his old academy team-mates on the continent.
 
 福登和桑乔在年龄上仅相差两个月，但是自桑乔于2017年从曼城转会到多特蒙德，后者已经在德甲联赛中登场1797分钟， earning three England caps and 并且赢得了欧洲最火爆的年轻球员之一的美誉。同时，迪亚斯, meanwhile, has made three senior appearances in little more than two weeks since joining Madrid.
 
 福登, Golden Ball winner during England U17s' World Cup triumph in 2017, is regarded by some as the most talented of the trio, but competition for places in City's midfield could hardly be tougher. In addition to having Fernandinho, Kevin De Bruyne and Ilkay Gundogan on the pitch on Sunday, City had David Silva and Bernardo Silva alongside 福登 on the bench.
 
- Pep 瓜迪奥拉 embraces 福登 after a cup clash with Oxford United
+ 瓜迪奥拉在联赛杯和牛津联赛后拥抱福登
 
-On the one hand, 福登 could not ask for a better set of players to learn from. 他最近说：“我们有最出色的球员，最优秀的工作人员，所以我正处在正确的位置。我每天都从他们身上” 
+一方面，福登 could not ask for a better set of players to learn from. 他最近说：“我们有最出色的球员，最优秀的工作人员，所以我正处在正确的位置。我每天都从他们身上” 
 "We've got the best set of players and the best staff so I'm in the right position, I'm learning off them every day, so I couldn't be in a better place. It's brilliant to play alongside players like Kevin De Bruyne. You just learn from the best."
 
-但是在另一方面，优秀的球员配置也使得进入一阵的任务愈发艰难。大卫-席尔瓦在这个月早些时候年满33岁。 The idea is that 福登有一天会在曼城的中场接替席尔瓦的位置。但是本赛季目前为止，席尔瓦27次出场收获9粒进球，西班牙人目前还没有放缓脚步的迹象。
+但是在另一方面，优秀的球员配置也使得进入一阵的任务愈发艰难。大卫-席尔瓦在这个月早些时候年满33岁。 人们的想法是福登有一天会接替席尔瓦在曼城中场的位置。但是本赛季目前为止，席尔瓦27次出场收获9粒进球，西班牙人目前还没有放缓脚步的迹象。
 
-瓜迪奥拉对福登保有耐心, 坚称他在未来将“有很多上场机会”，但是在目前这个对他发展至关重要的阶段，  but at this crucial stage in his development, the onus is on City to be brave with him now. 这名18岁球员已经足够优秀，这一点无需多言，穆巴拉克和瓜迪奥拉都已经知道。 现在问题的关键是给他足够的出场时间来让他展现自己的天赋。
+瓜迪奥拉对福登保有耐心, 坚称他在未来将“有很多上场机会”，但是在目前这个对他职业发展至关重要的阶段，曼城的责任在于现在就大胆的启用他。这名18岁球员已经足够优秀，这一点无需多言，穆巴拉克和瓜迪奥拉都已经知道。 现在问题的关键是给他足够的出场时间来让他展现自己的天赋。
 
 
 
