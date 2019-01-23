@@ -41,21 +41,20 @@ pytesseract 库来识别
 
 
 
-  福登's future is a challenge for Manchester City and Pep 瓜迪奥拉
+  福登's future is a challenge for 曼城和主帅瓜迪奥拉
 
-Nick Wright
-
-Comment and Analysis
-
-Manchester City face Burton Albion in the Carabao Cup live on Sky Sports on Wednesday evening       
+评述和分析：尼克-莱特
 
 
+
+周三晚间天空体育直播曼城和伯顿的联赛杯比赛
+ 
 
 福登本赛季仅在英超上场93分钟
 
-布拉欣-迪亚斯's decision to follow 桑乔 through the Manchester City exit has put the spotlight on 福登. So what are the prospects of their great academy hope now forcing his way into the team? It is challenge not just for him but for the club…
+布拉欣-迪亚斯跟随桑乔离开曼城的决定使得福登成为了人们关注的焦点。 So what are the prospects of their great academy hope now forcing his way into the team? 这对于福登本人和球队来说都是一项挑战。
 
-在2017年5月， soon after Manchester City's first season under Pep 瓜迪奥拉 had ended in a third-placed Premier League finish, 曼城主席穆巴拉克 gave an interview in which he talked up the future of the club and the three young players he hoped would form a key part of it.
+在2017年5月，在结束瓜迪奥拉执教曼城的第一个赛季，并且收获英超第三名成绩不久之后，  曼城主席穆巴拉克接受了一次采访，采访中他赞赏了球队的未来，以及and the three young players he hoped would form a key part of it.
 
 "What makes it special this year especially is that we have three or four players that we genuinely believe have a very good chance of making it to the first team. You look at 桑乔, you look at  福登, you look at 迪亚斯. They are extremely talented players. If you ask Pep today, he will tell you they can and will be first-team players at Manchester City."
 
