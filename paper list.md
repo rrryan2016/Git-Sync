@@ -253,23 +253,7 @@ Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features
      
 Learning to Look around Objects for Top-View Representations of Outdoor Scenes
     Samuel Schulter, Menghua Zhai, Nathan Jacobs, Manmohan Chandraker 
-     
-Uncertainty  
-Normalized Blind Deconvolution
-    Meiguang Jin, Stefan Roth, Paolo Favaro 
-     
-Selfie  
-CubeNet: Equivariance to  
-Improving      
-Combining  
-Unsupervised  
-Pairwise Confusion for Fine-Grained Visual Classification
-    Abhimanyu Dubey, Otkrist Gupta, Pei Guo, Ramesh Raskar, Ryan Farrell, Nikhil Naik 
-     
-Modular      
-Simultaneous  
-Temporal Relational Reasoning in  
-YouTube-VOS: Sequence-to-Sequence  
+ 
 Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input
     David Harwath, Adria Recasens, Didac Suris, Galen Chuang, Antonio Torralba, James Glass 
 
@@ -292,7 +276,6 @@ Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encode
 Encoder-Decoder with Atrous Separable Convolution for  
 Robust image stitching with multiple registrations
     Charles Herrmann, Chen Wang, Richard Strong Bowen, Emil Keyder, Michael Krainin, Ce Liu, Ramin Zabih 
-
 
 Compositional Learning for Human Object Interaction
     Keizo Kato, Yin Li, Abhinav Gupta 
@@ -472,17 +455,6 @@ Spatio-Temporal Channel Correlation Networks for Action Classification
 A Zero-Shot Framework for Sketch based Image  
 Lambda Twist: An Accurate Fast Robust Perspective Three Point (P3P) Solver
     Mikael Persson, Klas Nordberg 
-     
-Multi-modal Cycle-consistent      
-
-    Nikita Dvornik, Julien Mairal, Cordelia Schmid 
-     
-ForestHash:  
-Extending Layered Models to  
-Scale-Awareness of Light Field  
-Joint  
-Local Orthogonal-Group Testing
-    Ahmet Iscen, Ondrej Chum 
 
 Burst Image  
 FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rectification
@@ -491,10 +463,7 @@ FishEyeRecNet: A Multi-Context Collaborative Deep Network for Fisheye Image Rect
 Unveiling the Power of Deep  
 LSQ++: Lower running time and higher recall in multi-codebook quantization
     Julieta Martinez, Shobhit Zakhmi, Holger H. Hoos, James J. Little 
-     
-HBE: Hand Branch Ensemble Network for Real-time  
-Retrospective Encoders for  
-Sequential Clique Optimization for  
+
 Constraint-Aware Deep Neural Network Compression
     Changan Chen, Frederick Tung, Naveen Vedula, Greg Mori 
 
@@ -505,11 +474,7 @@ LAPRAN: A Scalable Laplacian Pyramid Reconstructive Adversarial Network for Flex
 On Regularized Losses for Weakly-supervised CNN  
 End-to-End Deep Structured Models for Drawing Crosswalks
     Justin Liang, Raquel Urtasun 
-     
-Correcting the Triplet Selection Bias for Triplet Loss
-    Baosheng Yu, Tongliang Liu, Mingming Gong, Changxing Ding, Dacheng Tao 
-      
-Straight to the Facts: Learning Knowledge Base  
+
 Sidekick Policy Learning for Active Visual Exploration
     Santhosh K. Ramakrishnan, Kristen Grauman 
 
@@ -522,8 +487,7 @@ CPlaNet: Enhancing Image Geolocalization by Combinatorial Partitioning of Maps
 ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for  
 Multi-Attention Multi-Class Constraint for Fine-grained Image Recognition
     Ming Sun, Yuchen Yuan, Feng Zhou, Errui Ding 
-   
-Where are the blobs: Counting by Localization with Point  
+
 Dense Textual Explanations for Self-Driving Vehicles
     Jinkyu Kim, Anna Rohrbach, Trevor Darrell, John Canny, Zeynep Akata 
      
@@ -578,8 +542,6 @@ Towards Privacy-Preserving Visual Recognition via Adversarial Training: A Pilot 
 Self-supervised Knowledge Distillation Using Singular Value Decomposition
     Seung Hyun Lee, Dae Ha Kim, Byung Cheol Song 
 
-Beyond Part Models: Person  
-Out-of-Distribution Detection Using an Ensemble of Self  
 Start, Follow, Read: End-to-End Full-Page Handwriting Recognition
     Curtis Wigington, Chris Tensmeyer, Brian Davis, William Barrett, Brian Price, Scott Cohen 
      
@@ -1128,9 +1090,6 @@ Meng-Ru Hsieh, Yen-Liang Lin, Winston H. Hsu
 BlitzNet: A Real-Time Deep Network for Scene Understanding
 Nikita Dvornik, Konstantin Shmelkov, Julien Mairal, Cordelia Schmid
  
-Joint Learning of Object and Action Detectors
-Vicky Kalogeiton, Philippe Weinzaepfel, Vittorio Ferrari, Cordelia Schmid
- 
 Situation Recognition With Graph Neural Networks
 Ruiyu Li, Makarand Tapaswi, Renjie Liao, Jiaya Jia, Raquel Urtasun, Sanja Fidler
  
@@ -1172,10 +1131,7 @@ Feihu Zhang, Benjamin W. Wah
  
 Interleaved Group Convolutions
 Ting Zhang, Guo-Jun Qi, Bin Xiao, Jingdong Wang
- 
-Action Tubelet Detector for Spatio-Temporal Action Localization
-Vicky Kalogeiton, Philippe Weinzaepfel, Vittorio Ferrari, Cordelia Schmid
- 
+
 AMTnet: Action-Micro-Tube Regression by End-To-End Trainable Deep Architecture
 Suman Saha, Gurkirt Singh, Fabio Cuzzolin
  
@@ -1191,10 +1147,6 @@ Mehdi S. M. Sajjadi, Bernhard Scholkopf, Michael Hirsch
  
 Makeup-Go: Blind Reversion of Portrait Edit
 Ying-Cong Chen, Xiaoyong Shen, Jiaya Jia
- 
-Shadow Detection With Conditional  
-Learning High Dynamic Range From Outdoor Panoramas
-Jinsong Zhang, Jean-Francois Lalonde
 
 Structure-Measure: A New Way to Evaluate Foreground Maps
 Deng-Ping Fan, Ming-Ming Cheng, Yun Liu, Tao Li, Ali Borji
@@ -1212,14 +1164,11 @@ Xu Zhang, Felix X. Yu, Sanjiv Kumar, Shih-Fu Chang
  
 Visual Odometry for Pixel Processor Arrays
 Laurie Bose, Jianing Chen, Stephen J. Carey, Piotr Dudek, Walterio Mayol-Cuevas
- 
-Joint  
-Depth 
+
 Optimal Transformation  
 Efficient Algorithms for Moral Lineage Tracing
 Markus Rempfler, Jan-Hendrik Lange, Florian Jug, Corinna Blasse, Eugene W. Myers, Bjoern H. Menze, Bjoern Andres
- 
-From  
+
 DeepFuse: A Deep Unsupervised Approach for Exposure Fusion With Extreme Exposure Image Pairs
 K. Ram Prabhakar, V Sai Srikar, R. Venkatesh Babu
  
@@ -1230,11 +1179,6 @@ Georgios Zoumpourlis, Alexandros Doumanoglou, Nicholas Vretos, Petros Daras
  
 AOD-Net: All-In-One Dehazing Network
 Boyi Li, Xiulian Peng, Zhangyang Wang, Jizheng Xu, Dan Feng
- 
-Simultaneous Detection and  
-Understanding Low- and High-Level Contributions to Fixation 
-Image Super-Resolution Using Dense Skip Connections
-Tong Tong, Gen Li, Xiejie Liu, Qinquan Gao
  
 Convergence Analysis of MAP Based Blur Kernel 
 Blob Reconstruction Using Unilateral Second Order Gaussian Kernels With Application to High-ISO Long-Exposure Image De
@@ -1267,9 +1211,6 @@ Prasoon Goyal, Zhiting Hu, Xiaodan Liang, Chenyu Wang, Eric P. Xing
 Dense and Low-Rank Gaussian CRFs Using Deep Embeddings
 Siddhartha Chandra, Nicolas Usunier, Iasonas Kokkinos
  
-Moving Object Detection in Time-Lapse or Motion Trigger Image Sequences Using Low-Rank and Invariant Sparse Decomposition
-Moein Shakeri, Hong Zhang
- 
 A Multilayer-Based Framework for Online Background Subtraction With Freely Moving  
 
 Personalized Cinemagraphs Using 
@@ -1296,7 +1237,6 @@ Active Decision Boundary Annotation With Deep
 Convolutional Dictionary Learning via Local Processing
 Vardan Papyan, Yaniv Romano, Jeremias Sulam, Michael Elad
  
-
 Refractive Structure-From-Motion Through a Flat Refractive Interface
 Francois Chadebecq, Francisco Vasconcelos, George Dwyer, Rene Lacher, Sebastien Ourselin, Tom Vercauteren, Danail Stoyanov
  
@@ -1319,10 +1259,6 @@ Junfeng Yang, Xueyang Fu, Yuwen Hu, Yue Huang, Xinghao Ding, John Paisley
 Recurrent Color Constancy
 Yanlin Qian, Ke Chen, Jarno Nikkanen, Joni-Kristian Kamarainen, Jiri Matas
  
-Saliency Pattern Detection by Ranking Structured Trees
-Lei Zhu, Haibin Ling, Jin Wu, Huiping Deng, Jin Liu
- 
-
 Parallel 
 Non-Rigid Object 
 A Discriminative View of MRF Pre-Processing Algorithms
@@ -1330,13 +1266,7 @@ Chen Wang, Charles Herrmann, Ramin Zabih
  
 Offline Handwritten Signature Modeling and Verification Based on Archetypal Analysis
 Elias N. Zois, Ilias Theodorakopoulos, George Economou
- 
-Long Short-Term Memory Kalman Filters: Recurrent Neural 
-Deeper, Broader and Artier Domain  
-Deep Spatial-
-Soft-NMS -- Improving Object Detection With One Line of Code
-Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis
- 
+
 Understanding and Mapping Natural Beauty
 Scott Workman, Richard Souvenir, Nathan Jacobs
 
@@ -1370,9 +1300,6 @@ Yunsheng Li, Mandar Dixit, Nuno Vasconcelos
  
 Learning Bag-Of-Features Pooling for Deep Convolutional Neural Networks
 Nikolaos Passalis, Anastasios Tefas
- 
-Adversarial Examples Detection in Deep Networks With Convolutional Filter Statistics
-Xin Li, Fuxin Li
  
 R-C
 GPLAC:  
@@ -1440,9 +1367,7 @@ Context-Aware Deep Feature Compression for High-Speed Visual
 Correlation 
 The Best of Both Worlds: Combining CNNs and Geometric Constraints for Hierarchical Motion  
 Hyperparameter Optimization for 
-Scale-Transferrable Object Detection
-Peng Zhou, Bingbing Ni, Cong Geng, Jianguo Hu, Yi Xu
- 
+
 End-to-End Flow Correlation 
 Deep Texture Manifold for Ground Terrain Recognition
 Jia Xue, Hang Zhang, Kristin Dana
@@ -1468,9 +1393,8 @@ Learned Shape-Tailored Descriptors for
 PAD-Net: Multi-Tasks Guided 
 Multi-Image  
 Joint Cuts and 
-Progressive Attention Guided Recurrent Network for Salient Object Detection
-Xiaoning Zhang, Tiantian Wang, Jinqing Qi, Huchuan Lu, Gang Wang
- 
+
+
 Fast and Accurate Single Image Super-Resolution via Information Distillation Network
 Zheng Hui, Xiumei Wang, Xinbo Gao
  
@@ -1517,10 +1441,6 @@ W2F: A Weakly-
 Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization
 Peihua Li, Jiangtao Xie, Qilong Wang, Zilin Gao
  
-Recurrent Scene  
-Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors
-Junhyug Noh, Soochan Lee, Beomsu Kim, Gunhee Kim
- 
 Learning to Act Properly: 
 Pointwise Convolutional Neural Networks
 Binh-Son Hua, Minh-Khoi Tran, Sai-Kit Yeung
@@ -1532,27 +1452,10 @@ A Seong Jae Hwang, Sathya N. Ravi, Zirui Tao, Hyunwoo J. Kim, Maxwell D. Collins
  
 Transductive Unbiased Embedding for Zero-Shot Learning
 Jie Song, Chengchao Shen, Yezhou Yang, Yang Liu, Mingli Song
- 
-Hierarchical Novelty Detection for Visual Object Recognition
-Kibok Lee, Kimin Lee, Kyle Min, Yuting Zhang, Jinwoo Shin, Honglak Lee
- 
-Zero-Shot Visual Recognition Using 
-Learning Rich Features for Image Manipulation Detection
-Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis
- 
-Human 
-Stacked Latent Attention for Multimodal Reasoning
-Haoqi Fan, Jiatong Zhou
- 
-R-FCN-3000 at 30fps: Decoupling Detection and Classification
-Bharat Singh, Hengduo Li, Abhishek Sharma, Larry S. Davis
- 
+
 CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes
 Yuhong Li, Xiaofan Zhang, Deming Chen
- 
-Revisiting Knowledge Transfer for Training Object Class Detectors
-Jasper Uijlings, Stefan Popov, Vittorio Ferrari
- 
+
 Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons
 Edward Kim, Darryl Hannan, Garrett Kenyon
  
@@ -1576,14 +1479,11 @@ Image
 Deep Cauchy Hashing for Hamming Space  
 Learning to Look Around: Intelligently Exploring Unseen Environments for Unknown Tasks
 Dinesh Jayaraman, Kristen Grauman
- 
-Multi-Scale Location-Aware Kernel Representation for Object Detection
-Hao Wang, Qilong Wang, Mingqi Gao, Peihua Li, Wangmeng Zuo
+
  
 Clinical Skin Lesion Diagnosis Using Representations Inspired by Dermatologist Criteria
 Jufeng Yang, Xiaoxiao Sun, Jie Liang, Paul L. Rosin
  
-Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and 
 HashGAN: Deep Learning to Hash With Pair Conditional Wasserstein GAN
 Yue Cao, Bin Liu, Mingsheng Long, Jianmin Wang
  
@@ -1596,9 +1496,6 @@ Adversarial Complementary Learning for Weakly
 Conditional  
 GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints
 Fuhai Chen, Rongrong Ji, Xiaoshuai Sun, Yongjian Wu, Jinsong Su
- 
-Weakly- Geometry-Aware Scene Text Detection With Instance Transformation Network
-Fangfang Wang, Liming Zhao, Xi Li, Xinchao Wang, Dacheng Tao
 
 MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks
 Ariel Gordon, Elad Eban, Ofir Nachum, Bo Chen, Hao Wu, Tien-Ju Yang, Edward Choi
@@ -1613,30 +1510,20 @@ Emanuel Laude, Jan-Hendrik Lange, Jonas Schüpfer, Csaba Domokos, Laura Leal-Tai
 Robust Physical-World Attacks on Deep Learning Visual Classification
 Kevin Eykholt, Ivan Evtimov, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno, Dawn Song
  
- 
-Learning to Promote Saliency Detectors
-Yu Zeng, Huchuan Lu, Lihe Zhang, Mengyang Feng, Ali Borji
- 
 Image Super-Resolution via Dual-State Recurrent Networks
 Wei Han, Shiyu Chang, Ding Liu, Mo Yu, Michael Witbrock, Thomas S. Huang
  
 Deep Back-Projection Networks for Super-Resolution
 Muhammad Haris, Gregory Shakhnarovich, Norimichi Ukita
- 
-Focus Manipulation Detection via Photometric Histogram Analysis
-Can Chen, Scott McCloskey, Jingyi Yu
- 
+
 Compassionately Conservative Balanced Cuts for Image  
 A High-Quality De
-Salient Object Detection Driven by Fixation 
+
 Enhancing the Spatial Resolution of Stereo Images Using a Parallax Prior
 Daniel S. Jeon, Seung-Hwan Baek, Inchang Choi, Min H. Kim
  
 HATS: Histograms of Averaged Time Surfaces for Robust Event-Based Object Classification
 Amos Sironi, Manuele Brambilla, Nicolas Bourdis, Xavier Lagorce, Ryad Benosman
- 
-A Bi-Directional Message Passing Model for Salient Object Detection
-Lu Zhang, Ju Dai, Huchuan Lu, You He, Gang Wang
  
 SeedNet: Automatic Seed Stacked Conditional Xin Yang, Ke Xu, Yibing Song, Qiang Zhang, Xiaopeng Wei, Rynson W.H. Lau
  
@@ -1652,8 +1539,7 @@ Andrew Gilbert, John Collomosse, Hailin Jin, Brian Price
  
 Deformable Shape Completion With Graph Convolutional Autoencoders
 Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia
- 
-CarFusion: Combining Point Matryoshka Networks: End-to-End Learning of Keypoint Detector and Descriptor for Pose Invariant 
+
 ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM
 Haomin Liu, Mingyu Chen, Guofeng Zhang, Hujun Bao, Yingze Bao
  
@@ -1718,17 +1604,11 @@ Progressively Complementarity-Aware Fusion Network for
 Pixels, Voxels, and Views: A Study of Shape Representations for Single View 
 Learning Dual Convolutional Neural Networks for Low-Level Vision
 Jinshan Pan, Sifei Liu, Deqing Sun, Jiawei Zhang, Yang Liu, Jimmy Ren, Zechao Li, Jinhui Tang, Huchuan Lu, Yu-Wing Tai, Ming-Hsuan Yang
- 
-Defocus Blur Detection via Multi-Stream Bottom-Top-Bottom Fully Convolutional Network
-Wenda Zhao, Fan Zhao, Dong Wang, Huchuan Lu
- 
-PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection
-Nian Liu, Junwei Han, Ming-Hsuan Yang
+
  
 Curve Reconstruction via the Global Statistics of Natural Curves
 Ehud Barnea, Ohad Ben-Shahar
- 
-Detect Globally, Refine Locally: A Novel Approach to Saliency Detection
+
 Tiantian Wang, Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji
  
 Beyond the Pixel-Wise Loss for Topology-Aware Delineation
@@ -1762,20 +1642,14 @@ Yedid Hoshen, Lior Wolf
  
 A Biresolution Spectral Framework for Product Quantization
 Lopamudra Mukherjee, Sathya N. Ravi, Jiming Peng, Vikas Singh
- 
-Domain Adaptive Faster R-CNN for Object Detection in the Wild
-Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool
- 
+
 Low-Shot Learning With Large-Scale Diffusion
 Matthijs Douze, Arthur Szlam, Bharath Hariharan, Hervé Jégou
  
 Joint Pose and Expression Modeling for  
 Lightweight Probabilistic Deep Networks
 Jochen Gast, Stefan Roth
- 
-Adversarially Learned One-Class Classifier for Novelty Detection
-Mohammad Sabokrou, Mohammad Khalooei, Mahmood Fathy, Ehsan Adeli
- 
+
 Defense Against Universal Adversarial Perturbations
 Naveed Akhtar, Jian Liu, Ajmal Mian
  
@@ -1816,16 +1690,7 @@ Tali Dekel, Chuang Gan, Dilip Krishnan, Ce Liu, William T. Freeman
  
 Anticipating Traffic Accidents With Adaptive Loss and Large-Scale Incident DB
 Tomoyuki Suzuki, Hirokatsu Kataoka, Yoshimitsu Aoki, Yutaka Satoh
- 
-A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds
-Tolga Birdal, Benjamin Busam, Nassir Navab, Slobodan Ilic, Peter Sturm
- 
-Fast and Furious: Real Time End-to-End 
-An Analysis of Scale Invariance in Object Detection ­ SNIP
-Bharat Singh, Larry S. Davis
- 
-Relation Networks for Object Detection
-Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei
+
  
 Zero-Shot Sketch-Image Hashing
 Yuming Shen, Li Liu, Fumin Shen, Ling Shao
@@ -1897,16 +1762,10 @@ Viktor Larsson, Magnus Oskarsson, Kalle Astrom, Alge Wallis, Zuzana Kukelova, To
 Lions and Tigers and Bears: Capturing Non-Rigid, 
 Deep Cocktail Network: Multi-Source Unsupervised Domain Adaptation With Category Shift
 Ruijia Xu, Ziliang Chen, Wangmeng Zuo, Junjie Yan, Liang Lin
- 
-DOTA: A Large-Scale Dataset for Object Detection in Aerial Images
-Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang
- 
+
 Finding Beans in Burgers: Deep 
 Feature Super-Resolution: Make Machine See More Clearly
 Weimin Tan, Bo Yan, Bahetiyaer Bare
- 
-ClusterNet: Detecting Small Objects in Large Scenes by Exploiting Spatio-Temporal Information
-Rodney LaLonde, Dong Zhang, Mubarak Shah
  
 MaskLab: Instance   
 Classification-Driven Dynamic Image Enhancement
@@ -1915,10 +1774,7 @@ Vivek Sharma, Ali Diba, Davy Neven, Michael S. Brown, Luc Van Gool, Rainer Stief
 Knowledge Aided Consistency for Weakly  
 Who Let the Dogs Out? Modeling Dog Behavior From Visual Data
 Kiana Ehsani, Hessam Bagherinezhad, Joseph Redmon, Roozbeh Mottaghi, Ali Farhadi
- 
-Pseudo Mask Augmented Object Detection
-Xiangyun Zhao, Shuang Liang, Yichen Wei
- 
+
 Dual Skipping Networks
 Changmao Cheng, Yanwei Fu, Yu-Gang Jiang, Wei Liu, Wenlian Lu, Jianfeng Feng, Xiangyang Xue
  
@@ -1929,10 +1785,7 @@ Jinxian Liu, Bingbing Ni, Yichao Yan, Peng Zhou, Shuo Cheng, Jianguo Hu
  
 Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning
 Yin Cui, Yang Song, Chen Sun, Andrew Howard, Serge Belongie
- 
-Data Distillation: Towards Omni- 
-Feature Selective Networks for Object Detection
-Yao Zhai, Jingjing Fu, Yan Lu, Houqiang Li
+
  
 Learning a Discriminative Filter Bank Within a CNN for Fine-Grained Recognition
 Yaming Wang, Vlad I. Morariu, Larry S. Davis
@@ -1944,16 +1797,11 @@ Dynamic Graph
 A Network Architecture for Point Cloud Classification via Automatic Depth Images  
 Towards Dense Object 
 Long-Term On-Board 
-Single-Shot Refinement Neural Network for Object Detection
-Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li
- 
+
 Tips and Tricks for Visual Question 
 Learning to  
 Self-  
 Zigzag Learning for Weakly  
-Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification
-Wenguan Wang, Yuanlu Xu, Jianbing Shen, Song-Chun Zhu
- 
  
 SYQ: Learning Symmetric Quantization for Efficient Deep Neural Networks
 Julian Faraone, Nicholas Fraser, Michaela Blott, Philip H.W. Leong
@@ -2209,8 +2057,7 @@ Maoqing Tian, Shuai Yi, Hongsheng Li, Shihua Li, Xuesen Zhang, Jianping Shi, Jun
  
 Learning to Evaluate Image Captioning
 Yin Cui, Guandao Yang, Andreas Veit, Xun Huang, Serge Belongie
- 
-Single-Shot Object Detection With Enriched 
+
 Low-Shot Learning With Imprinted Weights
 Hang Qi, Matthew Brown, David G. Lowe
  
@@ -2227,9 +2074,6 @@ Gedas Bertasius, Aaron Chan, Jianbo Shi
 Human-Centric Indoor Scene Synthesis Using Stochastic Grammar
 Siyuan Qi, Yixin Zhu, Siyuan Huang, Chenfanfu Jiang, Song-Chun Zhu
  
-Rotation-Sensitive Regression for Oriented Scene Text Detection
-Minghui Liao, Zhen Zhu, Baoguang Shi, Gui-song Xia, Xiang Bai
- 
 Separating Self-Expression and Visual Content in Hashtag  
 Distort-and-Recover: Color Enhancement Using Deep Reinforcement Learning
 Jongchan Park, Joon-Young Lee, Donggeun Yoo, In So Kweon
@@ -2243,17 +2087,8 @@ Rafael Possas, Sheila Pinto Caceres, Fabio Ramos
 Action Sets: Weakly   
 Are You Talking to Me? Reasoned Visual Dialog  
 Visual Question Raymond A. Yeh, Minh N. Do, Alexander G. Schwing
- 
-Focal Visual-Text Attention for Visual Question 
-SeGAN:  
-Cascade R-CNN: Delving Into High Quality Object Detection
-Zhaowei Cai, Nuno Vasconcelos
- 
-Learning  
-MegDet: A Large Mini-Batch Object Detector
-Chao Peng, Tete Xiao, Zeming Li, Yuning Jiang, Xiangyu Zhang, Kai Jia, Gang Yu, Jian Sun
- 
-Learning Globally Optimized Object Detector via Policy Gradient
+
+
 Yongming Rao, Dahua Lin, Jiwen Lu, Jie Zhou
  
 Photographic Text-to-Image Synthesis With a Hierarchically-Nested Adversarial Network
@@ -2318,24 +2153,13 @@ Ping Wei, Yang Liu, Tianmin Shu, Nanning Zheng, Song-Chun Zhu
 Fully Convolutional Adaptation Networks for 
 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun
- 
-Learning Markov Clustering Networks for Scene Text Detection
-Zichuan Liu, Guosheng Lin, Sheng Yang, Jiashi Feng, Weisi Lin, Wang Ling Goh
- 
-Deep Reinforcement Learning of Region Proposal Networks for Object Detection
-Aleksis Pirinen, Cristian Sminchisescu
+
  
 Beyond Holistic Object Recognition: Enriching Image Understanding With Part States
 Cewu Lu, Hao Su, Yonglu Li, Yongyi Lu, Li Yi, Chi-Keung Tang, Leonidas J. Guibas
  
 Discriminability Objective for Training Descriptive Captions
 Ruotian Luo, Brian Price, Scott Cohen, Gregory Shakhnarovich
- 
-Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships
-Yong Liu, Ruiping Wang, Shiguang Shan, Xilin Chen
- 
-Occluded Pedestrian Detection Through Guided Attention in CNNs
-Shanshan Zhang, Jian Yang, Bernt Schiele
  
 Reward Learning From Narrated Demonstrations
 Hsiao-Yu Tung, Adam W. Harley, Liang-Kang Huang, Katerina Fragkiadaki
@@ -2354,10 +2178,7 @@ Every Smile Is Unique: Landmark-Guided Diverse Smile
 UV-GAN: Adversarial A 
 End-to-End Recovery of Human Shape and Pose
 Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik
- 
-Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects
-Md Amirul Islam, Mahmoud Kalash, Neil D. B. Bruce
- 
+
 Context Encoding for 
 Creating Capsule Wardrobes From Fashion Images
 Wei-Lin Hsiao, Kristen Grauman
@@ -2378,9 +2199,6 @@ Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-
 DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor
 Tao Yu, Zerong Zheng, Kaiwen Guo, Jianhui Zhao, Qionghai Dai, Hao Li, Gerard Pons-Moll, Yebin Liu
  
-Direction-Aware Spatial Context Features for Shadow Detection
-Xiaowei Hu, Lei Zhu, Chi-Wing Fu, Jing Qin, Pheng-Ann Heng
- 
 Discriminative Learning of Latent Features for Zero-Shot Recognition
 Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang
  
@@ -2394,11 +2212,7 @@ Alexander Andreopoulos, Hirak J. Kashyap, Tapan K. Nayak, Arnon Amir, Myron D. F
  
 VITON: An Image-Based Virtual Try-On Network
 Xintong Han, Zuxuan Wu, Zhe Wu, Ruichi Yu, Larry S. Davis
- 
-Multi-Oriented Scene Text Detection via Corner Localization and Region  
-Multi-Content GAN for Few-Shot Font Style Transfer
-Samaneh Azadi, Matthew Fisher, Vladimir G. Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell
- 
+
 Weakly  
 Preserving 
 Show Me a Story: Towards Coherent Neural Story Illustration

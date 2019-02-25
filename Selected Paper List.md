@@ -42,6 +42,7 @@ ECCV
 40. Adaptive Feeding: Achieving Fast and Accurate Detections by Adaptively Combining Object Detectors
 41. Joint Detection and Recounting of Abnormal Events by Learning Deep 
 42. CoupleNet: Coupling Global Structure With Local Parts for Object Detection
+43. Joint Learning of Object and Action Detectors
  
 
 
@@ -62,3 +63,28 @@ CVPR:
 3. Learning Transferable Architectures for Scalable Image Recognition
 4. Detecting and Recognizing Human-Object Interactions
 5. Non-Linear Temporal Subspace Representations for Activity Recognition
+6. Scale-Transferrable Object Detection
+7. Progressive Attention Guided Recurrent Network for Salient Object Detection
+8. Hierarchical Novelty Detection for Visual Object Recognition
+9. Learning Rich Features for Image Manipulation Detection
+10. Revisiting Knowledge Transfer for Training Object Class Detectors
+11. Multi-Scale Location-Aware Kernel Representation for Object Detection
+12. Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and 
+13. Salient Object Detection Driven by Fixation 
+14. A Bi-Directional Message Passing Model for Salient Object Detection
+15. Detect Globally, Refine Locally: A Novel Approach to Saliency Detection
+16. PiCANet: Learning Pixel-Wise Contextual Attention for Saliency Detection
+17. Domain Adaptive Faster R-CNN for Object Detection in the Wild
+18. An Analysis of Scale Invariance in Object Detection
+19. Relation Networks for Object Detection
+20. ClusterNet: Detecting Small Objects in Large Scenes by Exploiting Spatio-Temporal Information
+21. Feature Selective Networks for Object Detection
+22. Single-Shot Refinement Neural Network for Object Detection
+23. MegDet: A Large Mini-Batch Object Detector
+24. Learning Globally Optimized Object Detector via Policy Gradient
+25. Deep Reinforcement Learning of Region Proposal Networks for Object Detection
+26. Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects
+27. 
+
+
+
