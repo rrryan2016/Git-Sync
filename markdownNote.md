@@ -107,3 +107,14 @@ KeyError: 'HOME'
 My OS is window 10 64 bit, and the Python Version is 3.5
 
 Thanks bud!
+
+<text>标签里面只能有纯文本 其他的组件是不会显示的
+<navigator>只能分拆
+      <text>My</text> <navigator url='/pages/weekly/weekly'>Recommendation</navigator>
+
+如果想在同一行的话，要重新封装在一个view元素中。
+navigator默认是block，修改如下
+<text>My </text> <navigator style='display:inline' url='/pages/weekly/weekly'>Recommendation</navigator>
+
+不期望左上角有back按键，navigator的属性open-type="redirect"
+open-type的默认取值是
